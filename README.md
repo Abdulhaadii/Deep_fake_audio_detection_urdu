@@ -1,2 +1,2 @@
-# Deep_fake_detection_urdu
-Urdu deepfake detection using CSALT dataset
+# Deep_fake_audio_detection_urdu
+Urdu deepfake audio detection using CSALT dataset
