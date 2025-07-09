@@ -36,9 +36,6 @@ This project uses a publicly released dataset containing both bonafide and synth
 ├── requirements.txt
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
